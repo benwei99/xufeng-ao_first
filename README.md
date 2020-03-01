@@ -1,2 +1,2 @@
 # xufeng-ao_first
-Today is Match 1st,I sign up a account of github.Thanks to my teacher Mr.Zhang.
+Today is Match 1st,I sign up a account of github.
